@@ -1,0 +1,8 @@
+{
+  "proxy": {
+    "source": 3333,
+    "target": 3000,
+    "key": "C:\\dev\\ssl\\ca.key",
+    "cert": "C:\\dev\\ssl\\ca.crt" 
+  }
+}

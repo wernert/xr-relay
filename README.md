@@ -3,6 +3,9 @@ v16.19.0
 
 npm i @nestjs/websockets @nestjs/platform-socket.io  
 
+npm i -g local-ssl-proxy
+
+
 <hr>
 
 <p align="center">
