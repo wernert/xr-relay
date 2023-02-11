@@ -1,3 +1,10 @@
+$ node -v  
+v16.19.0  
+
+npm i @nestjs/websockets @nestjs/platform-socket.io  
+
+<hr>
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
